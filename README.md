@@ -24,3 +24,6 @@ To run the game, make sure you have Java installed on your system. Then, follow 
 
 ## Credits 🙌
 This game was developed by [Ankit Dhattarwal] as a personal project.
+
+## Play the Game 🕹️
+You can play the game online [here](https://ankit-dhattarwal.github.io/FlappyBird/).
